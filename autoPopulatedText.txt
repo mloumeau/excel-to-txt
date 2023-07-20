@@ -1,0 +1,41 @@
+Q# 202305373  $ 41323.18   [ # Days/Hours: 56  Bid By:  ]  WH#    PM=
+
+CCS Field Super:
+CCS Installer:
+SUBS:
+
+****JOB#
+
+JOB LOG: 
+Received from Sales Admin by PM Dept
+Received from Sales for initial processing / Job Basics entered on Big Board
+Created Overhead PO
+Request Deposit?
+Confirmed Customer Has As-Builts?
+
+JOB CONTACTS:
+PRIMARY: Raquel Lindbeck      P: (619) 231-1515 x3989      EMAIL: rlindbeck@sdzwa.org
+CC: 
+RMS Contact:
+Other: 
+
+CREDENTIAL SPECS:
+
+BASE AMOUNT: $    HOURS [ ]
+CO#01: ADD $
+
+INVOICE DESCRIPTION:
+Provide Seneca Server, load, set-up, add existing cameras AND provide Bench Stock Devices ONLY.
+
+
+1.0 BACKROUND INFORMATION
+> PO 356767 AND depost PO 356766 CC: mabailey@sdzwa.org and apayne@sdzwa.org on all correspondance 
+
+2.0 SCOPE
+>
+
+3.0 SUBCONTRACTOR SCOPE
+>
+
+4.0 AS-BUILT UPDATES
+>
