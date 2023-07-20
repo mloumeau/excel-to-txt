@@ -1,0 +1,41 @@
+Q# {Quote}  $ {Amount}   [ # Days/Hours: {JobHours}  Bid By:  ]  WH#    PM=
+
+CCS Field Super:
+CCS Installer:
+SUBS:
+
+****JOB#
+
+JOB LOG: 
+Received from Sales Admin by PM Dept
+Received from Sales for initial processing / Job Basics entered on Big Board
+Created Overhead PO
+Request Deposit?
+Confirmed Customer Has As-Builts?
+
+JOB CONTACTS:
+PRIMARY: {Name}      P: {Phone}      EMAIL: {Email}
+CC: 
+RMS Contact:
+Other: 
+
+CREDENTIAL SPECS:
+
+BASE AMOUNT: $    HOURS [ ]
+CO#01: ADD $
+
+INVOICE DESCRIPTION:
+{ScopeOfWork}
+
+
+1.0 BACKROUND INFORMATION
+> {AdditionalInformation}
+
+2.0 SCOPE
+>
+
+3.0 SUBCONTRACTOR SCOPE
+>
+
+4.0 AS-BUILT UPDATES
+>
